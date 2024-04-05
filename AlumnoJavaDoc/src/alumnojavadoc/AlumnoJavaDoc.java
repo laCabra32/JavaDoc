@@ -4,7 +4,7 @@ package alumnojavadoc;
 
 /**
  *
- * @author Usuario
+ * @author ANTONIO
  */
 public class AlumnoJavaDoc {
 
