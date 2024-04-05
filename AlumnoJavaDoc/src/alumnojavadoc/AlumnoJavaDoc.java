@@ -3,7 +3,7 @@ package alumnojavadoc;
 //Esta clase representa a un alumno, guardando datos de el
 
 /**
- *
+ * TESTING COMMIT
  * @author ANTONIO
  */
 public class AlumnoJavaDoc {
